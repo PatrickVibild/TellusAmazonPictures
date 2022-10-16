@@ -1,0 +1,8 @@
+Feed Processing Summary:
+	Number of records processed		64
+	Number of records successful		61
+
+original-record-number	sku	marketplace	error-code	error-type	error-message
+11	Lenovo T530 Reg - US	US	8541	Error	The SKU data provided is different from what's already in the Amazon catalog. The merchant_suggested_asin data provided matches ASIN B07WGXVQ9N, but the following data is different from what's already in the Amazon catalog: manufacturer (Merchant: 'TellusRem' / Amazon: 'Tellus Remarketing ApS'). If this is the right ASIN for your product, update your data to match what's in the Amazon catalog. If it's not the right ASIN, make sure that your data for merchant_suggested_asin is correct. 
+24	Lenovo T460s Regular - US	US	8541	Error	The SKU data provided is different from what's already in the Amazon catalog. The merchant_suggested_asin data provided matches ASIN B08K9D983C, but the following data is different from what's already in the Amazon catalog: manufacturer (Merchant: 'TellusRem' / Amazon: 'Tellus Remarketing ApS'). If this is the right ASIN for your product, update your data to match what's in the Amazon catalog. If it's not the right ASIN, make sure that your data for merchant_suggested_asin is correct. 
+3	Lenovo T510 - US FBA	US	8541	Error	The SKU data provided is different from what's already in the Amazon catalog. The merchant_suggested_asin data provided matches ASIN B07GXQWSRS, but the following data is different from what's already in the Amazon catalog: brand (Merchant: 'TellusRem' / Amazon: 'Tellus Remarketing ApS'). If this is the right ASIN for your product, update your data to match what's in the Amazon catalog. If it's not the right ASIN, make sure that your data for merchant_suggested_asin is correct. 
